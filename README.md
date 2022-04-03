@@ -11,14 +11,14 @@ Usage of DEDSEC for attacking targets without prior mutual consent is illegal. I
 
 
 ### INSTALLATION [ TERMUX APP on ANDROID ]
-* git clone https://github.com/0xbitx/Top4-Social-Media-v2.git
-* cd Top4-Social-Media-v2/
-* ./project.sh
+* git clone https://github.com/0xbitx/Top4-social-media-v2.git
+* cd Top4-social-media-v2/
+* ./dedsec.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/0xbitx/Top4-Social-Media-v2git
-* cd Top4-Social-Media-v2/
-* ./project.sh
+* git clone https://github.com/0xbitx/Top4-social-media-v2.git
+* cd Top4-social-media-v2/
+* ./dedsec.sh
 
 ### TUNNELLING 
 cloudflare
@@ -36,9 +36,9 @@ cloudflare
 
 # Usage
 ```
-bash project.sh
+bash dedsec.sh
 ```
 # or
 ```
-./project.sh
+./dedsec.sh
 ```
