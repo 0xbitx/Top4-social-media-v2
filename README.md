@@ -1,4 +1,4 @@
-# BIG4 SOCIA MEDIA 2fa-bypass v2
+# BIG4 SOCIAL MEDIA 2fa-bypass v2
 <p align="center">
 <img alt="DEDSEC SNIFFER TOOL" src="https://github.com/0xbitx/Top4-social-media-v2/blob/master/banner.png" style="max-width:100%;max-height:100%;" />
 </p>
